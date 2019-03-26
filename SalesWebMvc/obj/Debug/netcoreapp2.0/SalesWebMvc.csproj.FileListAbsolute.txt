@@ -1,0 +1,11 @@
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.deps.json
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.runtimeconfig.json
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.runtimeconfig.dev.json
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.csprojResolveAssemblyReference.cache
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.AssemblyInfo.cs
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.dll
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.pdb
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.AssemblyInfoInputs.cache
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.dll
+C:\Users\matheus.cardoso\Desktop\Matheus\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.pdb
