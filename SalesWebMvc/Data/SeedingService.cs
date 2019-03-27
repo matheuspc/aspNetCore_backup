@@ -15,10 +15,10 @@ namespace SalesWebMvc.Data
         {
             _context = context;
         }
-
+        
         public void Seed()
         {
-            if(_context.Department.Any() ||
+            if (_context.Department.Any() ||
                 _context.Seller.Any() ||
                 _context.SalesRecord.Any())
             {
